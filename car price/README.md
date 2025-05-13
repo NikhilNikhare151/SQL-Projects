@@ -29,7 +29,7 @@ The following types of questions are solved in this project:
 
 ---
 ## Schema Diagram
-![schema diagram](schema_diagram.png)
+![schema diagram](schema_diagram.PNG)
 ---
 ## 🛠️ Technologies Used
 
