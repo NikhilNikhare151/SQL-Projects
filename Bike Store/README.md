@@ -11,7 +11,7 @@ This project uses SQL to analyze sales data from a fictional bike store. It invo
 
 ## 📷 Sample ERD (Entity Relationship Diagram)
 
-![ERD](ERD.png)
+![ERD](ERD.PNG)
 
 ## 📂 Folder Structure
 
