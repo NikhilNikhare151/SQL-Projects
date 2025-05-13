@@ -25,7 +25,7 @@ The following types of questions are solved in this project:
 - How do horsepower and engine size impact car pricing?
 - What are the top 5 most expensive cars in the dataset?
 
-> 📂 All queries can be found in [`Q&A.sql`](car_price/Q&A.sql)
+> 📂 All queries can be found in Q&A.sql file
 
 ---
 ## Schema Diagram
