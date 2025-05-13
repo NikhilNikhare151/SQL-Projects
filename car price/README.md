@@ -9,7 +9,7 @@ This project explores a dataset containing car price and specification details u
 ## 📁 Project Overview
 
 - **Goal**: Analyze car price data to uncover trends, patterns, and business insights.
-- **Tools Used**: MySQL / SQL Server / PostgreSQL (any SQL engine)
+- **Tools Used**: PostgreSQL
 - **Skills Applied**: SQL querying, filtering, joins, aggregations, sorting, grouping
 
 ---
@@ -35,7 +35,7 @@ The following types of questions are solved in this project:
 
 - SQL (Structured Query Language)
 - CSV/Excel as data source
-- Any RDBMS (MySQL, PostgreSQL, SQL Server, SQLite)
+- PostgreSQL
 
 ---
 
