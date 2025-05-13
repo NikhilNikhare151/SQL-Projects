@@ -28,7 +28,9 @@ The following types of questions are solved in this project:
 > 📂 All queries can be found in [`Q&A.sql`](car%20price/Q&A.sql)
 
 ---
-
+## Schema Diagram
+![schema diagram](schema_diagram.png)
+---
 ## 🛠️ Technologies Used
 
 - SQL (Structured Query Language)
