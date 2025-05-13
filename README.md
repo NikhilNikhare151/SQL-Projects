@@ -1,3 +1,6 @@
+![SQL](screenshot.png)
+
+
 # SQL Projects
 
 Welcome to my SQL project portfolio! This repository contains a growing collection of SQL-based projects covering database design, schema creation, complex querying, and business insights. Each project is organized in its own folder and includes:
