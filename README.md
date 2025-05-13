@@ -23,8 +23,6 @@ Welcome to my SQL project portfolio! This repository contains a growing collecti
   - Schema creation and population
   - Business logic queries (sales, staff activity, customer orders)
 
-More projects coming soon!
-
 ---
 ## 🚗 Car Price Analysis Using SQL
 
@@ -37,6 +35,8 @@ More projects coming soon!
   - Correlation of engine size, horsepower, and price
   - Top 5 most expensive cars in the dataset
   - Structured SQL queries grouped logically by insights
+ 
+  More projects coming soon!
 ---
 ## 🛠️ Tools Used
 
