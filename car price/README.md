@@ -1,3 +1,5 @@
+![project cover](project_cover.jpg)
+
 # 🚗 Car Price Analysis Using SQL
 
 This project explores a dataset containing car price and specification details using **SQL queries**. The objective is to derive actionable insights and answer business questions using SQL-based analysis.
