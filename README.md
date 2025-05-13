@@ -1,4 +1,4 @@
-![SQL Screenshot](images/screenshot.png)
+![SQL Screenshot](images/screenshot.PNG)
 
 
 # SQL Projects
