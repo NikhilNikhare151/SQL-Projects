@@ -26,7 +26,18 @@ Welcome to my SQL project portfolio! This repository contains a growing collecti
 More projects coming soon!
 
 ---
+## 🚗 Car Price Analysis Using SQL
 
+- **📂 Domain:** Automobile / Car Sales
+- **📝 Description:**  
+  An exploratory SQL project to analyze a car pricing dataset. It includes various aspects like brand, engine size, fuel type, horsepower, and how these factors influence the car's price.
+- **✨ Features:**
+  - Identified brands with the highest and lowest average prices
+  - Analyzed how fuel type and body style impact pricing
+  - Correlation of engine size, horsepower, and price
+  - Top 5 most expensive cars in the dataset
+  - Structured SQL queries grouped logically by insights
+---
 ## 🛠️ Tools Used
 
 - PostgreSQL
